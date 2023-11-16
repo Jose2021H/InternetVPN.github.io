@@ -1,3 +1,3 @@
 layout: page
-title: "PAGE-TITLEñ"
+title: "PAGE-TITLE"
 permalink: /politicasdeprivacidad
